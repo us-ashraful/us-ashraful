@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**us-ashraful/us-ashraful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Ashraful Alam
 
 - 🔭 I’m currently working on a Budge App
 - 🌱 I’m currently learning ReactJS
